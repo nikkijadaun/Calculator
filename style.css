@@ -1,0 +1,21 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    padding: 20px;
+    margin: 0px 5px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: aqua;
+}
+.row{
+    margin: 6px 0px;
+    background-color: rgb(250, 25, 25);
+}
+.input{
+    margin: 2px 35px;
+    padding: 7px 35px;
+}
